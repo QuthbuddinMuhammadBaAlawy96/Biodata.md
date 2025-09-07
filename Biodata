@@ -1,0 +1,18 @@
+package alwyapp;
+
+/**
+ *
+ * @author Alwy
+ */
+public class AlwyApp {
+
+    
+    public static void main(String[] args) {
+        int x=20;
+        System.out.println("4"+5);
+        
+        
+       
+    }
+    
+}
