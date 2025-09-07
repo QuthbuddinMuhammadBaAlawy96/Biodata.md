@@ -8,8 +8,9 @@ public class AlwyApp {
 
     
     public static void main(String[] args) {
-        int x=20;
-        System.out.println("4"+5);
+     
+        System.out.println(Quthbuddin Muhammad Ba'Alawy);
+        System.out.println(Kelompok 5);
         
         
        
